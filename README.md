@@ -1,6 +1,8 @@
 #About
 
-这是一个 Groovy on android 的测试项目
+这是一个 Groovy on android 的样例项目
+
+开发工具请用Android Studio
 
 #Usage
 
