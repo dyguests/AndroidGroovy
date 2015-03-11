@@ -16,6 +16,8 @@
 
         compile 'org.codehaus.groovy:groovy:2.4.0-beta-3:grooid'//第三步
 
+3.  在xxxModule.iml中 把 main/groovy文件夹设置成source文件夹  (请问有没有更好的办法???)
+
 enjoy it.
 
 #Reference
