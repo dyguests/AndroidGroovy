@@ -17,6 +17,7 @@
         compile 'org.codehaus.groovy:groovy:2.4.0-beta-3:grooid'//第三步
 
 3.  [已解决]在xxxModule.iml中 把 main/groovy文件夹设置成source文件夹  (请问有没有更好的办法???)
+
         已解决,新版本重新编译下就有了.另感谢splm->"我的解决方案是直接在gradle中设置Java的源码文件为重命名的groovy文件夹的路径。"
 
 enjoy it.
